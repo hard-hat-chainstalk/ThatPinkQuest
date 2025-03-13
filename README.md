@@ -7,6 +7,6 @@
 - ⚡ Fun fact:Im in school to be a Medical Assistant, I also have 37 Certifications, including AI Software Expert,Computer Data Technology and Cyber Security ...
 
 <!---
-Love241982/Love241982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/Love241982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->Love241982
